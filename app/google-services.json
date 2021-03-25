@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15831765360",
+    "project_id": "applib-login",
+    "storage_bucket": "applib-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15831765360:android:f7f3ad6bed9bda5eb9bfb5",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15831765360-go0u1jth4no8m7pg44dsrljv9d1kdjtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrV5ek3mNLmZCxES69m2AzEGMXY4rlH6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15831765360-go0u1jth4no8m7pg44dsrljv9d1kdjtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
