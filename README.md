@@ -1,3 +1,7 @@
+FThis project is forked and changed for Demo from
+==============================
+https://github.com/firebase/quickstart-android/tree/master/auth
+
 Firebase Auth Quickstart
 ==============================
 
