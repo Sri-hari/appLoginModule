@@ -9,9 +9,11 @@ on:
   pull_request:
     branches: [ main ]
 jobs:
-  test:
-    name: Run Unit Tests
-    runs-on: ubuntu-18.04
+  gradle:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
 
